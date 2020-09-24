@@ -1,4 +1,4 @@
-FROM pytorch/torchserve
+FROM pytorch/torchserve:0.2.0-cpu
 
 USER root
 
